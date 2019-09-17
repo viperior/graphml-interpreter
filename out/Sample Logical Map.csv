@@ -1,0 +1,8 @@
+node_id,node_name,node_group_id,node_group_name,node_group_sort_order
+n0::n0::n0,DronePOS.DPPROD.SALES,n0::n0,Source Data,1
+n0::n1::n0,LegacyPOS.LPPROD.SALES,n0::n1,Source Data,1
+n1::n0,Sales Fact,n1,Transform / Conform,3
+n2::n0,Sales Data Model,n2,Deliver,4
+n3::n0,Sales Trends App,n3,Load,5
+n4::n0::n0,LegacyPOS Sales,n4::n0,Extract,2
+n4::n1::n0,DronePOS Sales,n4::n1,Extract,2
