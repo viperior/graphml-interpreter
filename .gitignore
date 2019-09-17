@@ -1,0 +1,5 @@
+# Ignore these files
+in/*
+
+# But not these files...
+!in/Sample*.graphml
