@@ -1,5 +1,7 @@
 # Ignore these files
 in/*
+out/*
 
 # But not these files...
 !in/Sample*.graphml
+!out/Sample*.csv
